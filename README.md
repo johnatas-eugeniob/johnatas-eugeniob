@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou um entusiasta da tecnologia e desenvolvimento de software com **18 anos** e uma grande paixão por **programação**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, no 2º semestre, e já possuo formação técnica em **Informática para Internet**.
+Sou um entusiasta da tecnologia e desenvolvimento de software com **19 anos** e uma grande paixão por **programação**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, no 3º semestre, e já possuo formação técnica em **Informática para Internet**.
 
 Minha experiência profissional como **Jovem Aprendiz Administrativo** me proporcionou a oportunidade de aplicar meus conhecimentos de desenvolvimento para criar e otimizar soluções no ambiente de trabalho. Muitos dos projetos que você encontrará neste repositório foram desenvolvidos como parte do meu dia a dia nessa função.
 
