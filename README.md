@@ -6,6 +6,7 @@ Minha experiência profissional como **Jovem Aprendiz Administrativo** me propor
 
 ## Minhas habilidades incluem:
 - 🌐 Desenvolvimento web (HTML, CSS, JavaScript, e frameworks relacionados);
+- 📈 Análise de Dados 
 - 💻 Lógica de programação e algoritmos;
 - 📊 Organização e automação de processos administrativos;
 - 📚 Aprendizado constante e paixão por desafios.
